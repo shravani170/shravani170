@@ -1,5 +1,4 @@
 
-<img align='right' src='Entry Pic.jpg' width='350", height = "200"'>
 
 # Hi there👋 , I am Shravani
   
@@ -24,6 +23,7 @@ I am a **Coder** and completed my degree in **Electronics Engineering**:mortar_b
 - <a href = "https://drive.google.com/file/d/1E7t4dwScx49-tiByQgzjfsQnxgZblSUc/view?usp=sharing"><b>RESUME</b></a>.
   
 #### 👨🏻‍💻 Languages and Tools: <br />
+<code><img height="40" src="/images/python.png"></code>
 <code><img height="40" src="/images/js.png"></code>
 <code><img height="40" src="/images/css.png"></code>
 <code><img height="40" src="/images/html.png"></code>
@@ -32,6 +32,7 @@ I am a **Coder** and completed my degree in **Electronics Engineering**:mortar_b
 <code><img height="40" src="/images/mongoDb.png"></code>
 <code><img height="40" src="/images/nodejs.png"></code>
 <code><img height="40" src="/images/1280px-React-icon.svg.png"></code>
+
 
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=shravani170&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=shravani170&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
